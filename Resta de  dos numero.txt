@@ -1,0 +1,6 @@
+print("Digital el un numero")
+Num1 = int (input())
+print (" Digite el segundo")
+Num2 = int ( input())
+print ("La resta de un numero es:")
+print ( Num1 / Num2)

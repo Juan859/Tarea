@@ -1,0 +1,6 @@
+print (" Digite el primer")
+Num1 = int(input())
+print ("Digite el segundo numero")
+Num2 = int (input())
+print("La multiplicacion de un numero es:")
+print(Num1 * Num2)
